@@ -591,7 +591,7 @@
 
 
         <!-- jQuery 2.0.2 -->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <script src="${pageContext.request.contextPath}/resources/js/jquery.min.js"></script>
         <!-- jQuery UI 1.10.3 -->
         <script src="${pageContext.request.contextPath}/resources/js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
         <!-- Bootstrap -->
